@@ -43,7 +43,7 @@ color: white;
 }
 
 .home {
-	background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("../images/castello.jpg") no-repeat center top 25%;
+	background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("castello.jpg") no-repeat center top 25%;
 	background-position: top;
 	background-size: cover;
 	width: 100%;
